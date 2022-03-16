@@ -4,6 +4,6 @@ class Division{
         int quotient=dividend/divisor;
         int remainder=dividend%divisor;
         System.out.println(quotient);
-        System.out.println(remainder);
+        System.out.println(remainder);j
     }
 }
